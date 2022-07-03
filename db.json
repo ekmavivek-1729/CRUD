@@ -1,0 +1,41 @@
+{
+  "productsList": [
+    {
+      "productName": "Apple",
+      "category": "Fruit",
+      "quality": "Brand New",
+      "price": "600",
+      "comment": "This is fresh and good.",
+      "date": "2022-04-23T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Orange",
+      "category": "Fruit",
+      "quality": "Brand New",
+      "price": "677",
+      "comment": "New fruit",
+      "date": "2022-04-23T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "mango",
+      "category": "Fruit",
+      "quality": "Brand New",
+      "price": "100",
+      "comment": "awasooom",
+      "date": "2022-07-03T18:30:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

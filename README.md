@@ -1,6 +1,7 @@
 # Crud
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
+In this project user can add their data and able to edit, delete.
 
 ## Development server
 
